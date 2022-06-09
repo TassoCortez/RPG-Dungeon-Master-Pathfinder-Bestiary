@@ -20,7 +20,7 @@ With that problem in mind, I decided to create an interactive Dashboard that dis
 
 
 How to do it?
-	After analyzing the task, I decided that the best way to accomplish it, is to extract the image and the name of the monster from the PDF book and get the information regarding the monster in an online site www.d20pfsrd.com.
+	# After analyzing the task, I decided that the best way to accomplish it, is to extract the image and the name of the monster from the PDF book and get the information regarding the monster in an online site www.d20pfsrd.com.
 
 
 About the Code: 
